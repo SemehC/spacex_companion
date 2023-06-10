@@ -1,16 +1,26 @@
-# spacex_companion
 
-A new Flutter project.
+# SpaceX Companion
 
-## Getting Started
+An android app made using flutter to display information related to SpaceX including previous and next launches, details about rockets, landing pads, astronauts and live preview of Starlink sats.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+**Client:** Flutter
+
+**Api:** SpaceX Api https://github.com/r-spacex/SpaceX-API
+
+
+## Authors
+
+- [@SemehC](https://github.com/SemehC)
+
+
+## Demo
+
+
+- [Video link](https://drive.google.com/file/d/1b9QSN-S1Stgk8Y7DIuszSB_bLP3LGave/view)
+
+- [APk download](https://drive.google.com/file/d/1b4web-RPM17MLF3_wdquTQmskyZQRNOR/view)
